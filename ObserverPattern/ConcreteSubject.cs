@@ -18,11 +18,6 @@ namespace ObserverPattern
                 Notify();
             }
         }
-        public override void Notify()
-        {
-            foreach(Observer o in observers) {
-                o.Update();
-            }
-        }
+
     }
 }
