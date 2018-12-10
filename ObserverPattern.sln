@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverTests", "ObserverTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSystem", "MessageSystem\MessageSystem.csproj", "{DC63D05A-903B-43E2-8E1F-0A3EB4B557E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelBoards", "FuelBoards\FuelBoards.csproj", "{D343CC3C-B0C0-45A5-9416-E4CA0CC5BFFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DC63D05A-903B-43E2-8E1F-0A3EB4B557E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC63D05A-903B-43E2-8E1F-0A3EB4B557E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC63D05A-903B-43E2-8E1F-0A3EB4B557E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D343CC3C-B0C0-45A5-9416-E4CA0CC5BFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D343CC3C-B0C0-45A5-9416-E4CA0CC5BFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D343CC3C-B0C0-45A5-9416-E4CA0CC5BFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D343CC3C-B0C0-45A5-9416-E4CA0CC5BFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
